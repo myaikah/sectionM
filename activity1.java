@@ -9,6 +9,6 @@ public class StudentNames {
 	     
       System.out.println("Clarence P. Cardenas - BSIT 2M");
         System.out.println("James Michael B. Dela Cruz - BSIT 2M");
-
+       System.out.println("Stephen Laygan - BSIT 2M");
     }
 }
