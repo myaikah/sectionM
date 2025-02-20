@@ -1,6 +1,12 @@
-public class StudentNames {
+public class Activity1 {
     public static void main(String[] args) {
         System.out.println("List of Students:");
+
+   
+        // Collaborators: Add your names below using the format:
+        // System.out.println("Your Full Name");
+        // System.out.println("John peter elloren);
+
 
 
 
@@ -52,6 +58,7 @@ public class StudentNames {
 	System.out.println("John Carlo Gardoce - BSIT 2M");
 
         System.out.println("James Micheal L. Batayola - BSIT 2M");
+
 
 
 
