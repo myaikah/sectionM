@@ -5,6 +5,12 @@ public class Activity1 {
    
         // Collaborators: Add your names below using the format:
         // System.out.println("Your Full Name");
+       System.out.println("Lara Jean Gupid");
+
+
+   
+        // Collaborators: Add your names below using the format:
+        // System.out.println("Your Full Name");
         // System.out.println("John peter elloren);
 
 
@@ -59,6 +65,7 @@ public class Activity1 {
 	System.out.println("John Carlo Gardoce - BSIT 2M");
 
         System.out.println("James Micheal L. Batayola - BSIT 2M");
+
 
 
 
