@@ -3,7 +3,11 @@ public class StudentNames {
         System.out.println("List of Students:");
 
 
+
+        // System.out.println("Mykah Gabejan - BSIT 2M");
+
      System.out.println("Mykah Gabejan - BSIT 2M");
+
 
         // Students, add your names below using the format:
         // System.out.println("Your Name - SECTION");
@@ -20,7 +24,11 @@ public class StudentNames {
 
 
       System.out.println("Mykah Gabejan - BSIT 2M");
+
+	System.out.println("John Carlo Gardoce - BSIT 2M");
+
         System.out.println("James Micheal L. Batayola - BSIT 2M");
+
 
 
 
