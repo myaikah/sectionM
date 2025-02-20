@@ -53,6 +53,7 @@ public class Activity1 {
 
 
       System.out.println("Mykah Gabejan - BSIT 2M");
+	System.out.println("Gerald Mirandilla - BSIT 2M");
 
 
 	System.out.println("John Carlo Gardoce - BSIT 2M");
