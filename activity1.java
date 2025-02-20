@@ -16,6 +16,13 @@ public class StudentNames {
         // Example:
         // System.out.println("Juan Dela Cruz - BSIT 2M");
 
+	     
+      System.out.println("Clarence P. Cardenas - BSIT 2M");             
+      System.out.println("James Michael B. Dela Cruz - BSIT 2M");
+      System.out.println("Shaira S. Brisulda - BSIT 2M");
+
+
+
         
         System.out.println("Xander Olimberio - BSIT 2M");
         System.out.println("Stephanie Capuno - BSCS 2M");
@@ -31,6 +38,7 @@ public class StudentNames {
         System.out.println("Stephanie Capuno - BSCS 2M");
         System.out.println("Clarence P. Cardenas - BSIT 2M");
         System.out.println("James Michael B. Dela Cruz - BSIT 2M");
+
 
        System.out.println("Stephen Laygan - BSIT 2M");
 
