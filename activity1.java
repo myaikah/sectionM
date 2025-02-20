@@ -5,7 +5,13 @@ public class Activity1 {
    
         // Collaborators: Add your names below using the format:
         // System.out.println("Your Full Name");
-       //System.out.println("Geremelyn Gigante")
+     System.out.println("Roy Justine Ongue");
+
+
+   
+        // Collaborators: Add your names below using the format:
+        // System.out.println("Your Full Name");
+      System.out.println("Geremelyn Gigante")
 
 
    
@@ -71,6 +77,7 @@ public class Activity1 {
 	System.out.println("John Carlo Gardoce - BSIT 2M");
 
         System.out.println("James Micheal L. Batayola - BSIT 2M");
+
 
 
 
