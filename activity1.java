@@ -13,6 +13,10 @@ public class StudentNames {
         // System.out.println("Your Name - SECTION");
         // Example:
         // System.out.println("Juan Dela Cruz - BSIT 2M");
+
+
+      System.out.println("Francis C. Andes - BSIT 2M");
+
         System.out.println("Stephanie Capuno - BSCS 2M");
         System.out.println("Clarence P. Cardenas - BSIT 2M");
         System.out.println("James Michael B. Dela Cruz - BSIT 2M");
@@ -24,6 +28,7 @@ public class StudentNames {
 
 
       System.out.println("Mykah Gabejan - BSIT 2M");
+
 
 	System.out.println("John Carlo Gardoce - BSIT 2M");
 
