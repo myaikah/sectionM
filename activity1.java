@@ -78,6 +78,7 @@ public class Activity1 {
 
         System.out.println("James Micheal L. Batayola - BSIT 2M");
 
+         System.out.println("Noah M. Lampa - BSIT 2M");
 
 
 
