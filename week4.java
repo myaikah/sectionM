@@ -25,6 +25,8 @@ public class week4 {
         
         paciencia.display(); // Already added
         
+        Gigante.display();
+
 
 
     }
