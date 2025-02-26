@@ -11,6 +11,7 @@ public class week4 {
         Orolfo.dispaly(); // New student adds their method here
 
         Cardenas.display();
+        Elloren.display();
 
         Mangunay.display(); // Already added
         
