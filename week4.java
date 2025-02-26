@@ -3,6 +3,6 @@ public class week4 {
         System.out.println("Collaborative Java Project\n");
 
         student1.display(); // Already added
-        
+        Cardenas.display();
     }
 }
