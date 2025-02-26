@@ -4,10 +4,14 @@ public class week4 {
 
 
         student1.display(); // Already added
+
+        Orolfo.dispaly(); // New student adds their method here
+
         Cardenas.display();
 
         Mangunay.display(); // Already added
         
+
 
     }
 }
