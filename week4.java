@@ -5,6 +5,7 @@ public class week4 {
 
         student1.display(); // Already added
         Cardenas.display();
+        Elloren.display();
 
         Mangunay.display(); // Already added
         
