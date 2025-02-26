@@ -13,6 +13,7 @@ public class week4 {
         Cardenas.display();
 
         Mangunay.display(); // Already added
+        Batayola.display();
         
 
 
