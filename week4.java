@@ -7,6 +7,8 @@ public class week4 {
 
         DelaCruz.display();
 
+        Beo.display();
+
 
         Orolfo.dispaly(); // New student adds their method here
 
