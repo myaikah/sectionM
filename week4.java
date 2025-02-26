@@ -5,6 +5,9 @@ public class week4 {
 
         student1.display(); // Already added
 
+        DelaCruz.display();
+
+
         Orolfo.dispaly(); // New student adds their method here
 
         Cardenas.display();
