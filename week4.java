@@ -14,6 +14,7 @@ public class week4 {
         Elloren.display();
 
         Mangunay.display(); // Already added
+        Batayola.display();
         
 
 
