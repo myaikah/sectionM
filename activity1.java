@@ -73,7 +73,11 @@ public class Activity1 {
 	System.out.println("John Carlo Gardoce - BSIT 2M");
 
         System.out.println("James Micheal L. Batayola - BSIT 2M");
+
+System.out.println("Kyle Neil Orolfo - BSIT 2M");
+
         System.out.println("Stephen Rey Laygan BSIT 2M");
+
 
 
 
