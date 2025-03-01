@@ -24,7 +24,7 @@ public class week4 {
         Batayola.display();
         
         paciencia.display(); // Already added
-        
+        Gupid.display();
 
 
     }
