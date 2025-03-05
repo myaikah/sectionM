@@ -68,7 +68,11 @@ public class week4 {
 
 
         paciencia.display(); // Already added
+
+        Gardoce.display(); //Already added
+
         Mirandilla.display();
+
 
 
         Fonte.display();
