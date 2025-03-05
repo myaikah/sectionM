@@ -75,7 +75,10 @@ public class week4 {
 
         paciencia.display(); // Already added
 
-        
+        Laygan.display(); // Already added
+
+
+
 
         Olimberio.display();
 
