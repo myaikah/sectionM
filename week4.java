@@ -62,6 +62,13 @@ public class week4 {
         Mangunay.display(); // Already added
         Batayola.display();
 
+        
+        paciencia.display();// Already added
+      
+        Student1.display(); // Already added
+        Fernandez.display();     // New student adds their method here
+
+
         Fernandez.display();
 
 
@@ -72,6 +79,7 @@ public class week4 {
         Gardoce.display(); //Already added
 
         Mirandilla.display();
+
 
 
 
