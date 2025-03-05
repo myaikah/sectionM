@@ -73,7 +73,9 @@ public class week4 {
 
 
 
-        paciencia.display(); // Already added
+
+        Gupid.display();
+
 
         Laygan.display(); // Already added
 
@@ -95,6 +97,7 @@ public class week4 {
 
 
         Fonte.display();
+
 
 
     }
