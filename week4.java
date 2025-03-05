@@ -63,7 +63,7 @@ public class week4 {
         Batayola.display();
         
         paciencia.display(); // Already added
-        
+        Mirandilla.display();
 
 
         Fonte.display();
