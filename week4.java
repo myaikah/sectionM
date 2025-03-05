@@ -45,6 +45,10 @@ public class week4 {
         Mangunay.display(); // Already added
 
         
+
+        paciencia.display(); // Already added
+        Intia.display();
+
         Andes.display();
         
         student1.display(); // Already added
@@ -97,6 +101,7 @@ public class week4 {
 
 
         Fonte.display();
+
 
 
 
