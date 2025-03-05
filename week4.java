@@ -61,7 +61,10 @@ public class week4 {
 
         Mangunay.display(); // Already added
         Batayola.display();
-        
+
+        Fernandez.display();
+
+
 
 
         paciencia.display(); // Already added
