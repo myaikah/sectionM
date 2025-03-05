@@ -17,6 +17,7 @@ public class week4 {
 
         Cardenas.display();
         Elloren.display();
+        Miranda.display();
 
         Mangunay.display(); // Already added
         Batayola.display();
