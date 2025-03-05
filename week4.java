@@ -24,5 +24,6 @@ public class Week4 {
         Orolfo.display(); 
         Paciencia.display();
         Student1.display();
+        Manuba.display();
     }
 }
