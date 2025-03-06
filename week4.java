@@ -25,5 +25,6 @@ public class Week4 {
         Paciencia.display();
         Student1.display();
         Manuba.display();
+        Delbo.display();
     }
 }
