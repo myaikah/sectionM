@@ -6,6 +6,7 @@ public class Activity1 {
         // System.out.println("Your Full Name");
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         // Students, add your names below using the format:
         // System.out.println("Your Name - SECTION");
         // Example:
@@ -45,5 +46,8 @@ public class Activity1 {
 =======
         System.out.println("Mykah Gabejan - BSIT 2M");
 >>>>>>> 8098de6e8aebbece3849d3ba428f9f9444e3dba7
+=======
+        System.out.println("Mykah Gabejan - BSIT 2M");
+>>>>>>> fcdc11df91544c8df85201f19d72b4e40cba3d27
     }
 }
