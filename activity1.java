@@ -1,7 +1,11 @@
 public class Activity1 {
     public static void main(String[] args) {
         System.out.println("List of Students:");
+    
+        // Collaborators: Add your names below using the format:
+        // System.out.println("Your Full Name");
 
+<<<<<<< HEAD
         // Students, add your names below using the format:
         // System.out.println("Your Name - SECTION");
         // Example:
@@ -38,5 +42,8 @@ public class Activity1 {
       System.out.println("Kyle Neil Orolfo - BSIT 2M");
       System.out.println("Stephen Rey Laygan BSIT 2M");
 
+=======
+        System.out.println("Mykah Gabejan - BSIT 2M");
+>>>>>>> 8098de6e8aebbece3849d3ba428f9f9444e3dba7
     }
 }
